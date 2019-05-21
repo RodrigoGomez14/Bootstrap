@@ -1,3 +1,6 @@
+body{
+    min-width: 365px;
+}
 .btn-platzi{
     background:#97c934 !important;
     color: white
