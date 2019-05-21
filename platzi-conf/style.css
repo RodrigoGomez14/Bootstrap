@@ -1,0 +1,9 @@
+footer{
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372)
+}
+#header img{
+    max-height: 30px
+}
+.text-platzi{
+    color:#97c934 !important
+}
