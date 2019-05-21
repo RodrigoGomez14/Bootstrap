@@ -39,3 +39,18 @@ footer{
 #carousel .overlay .row{
     height: 100%;
 }
+.card-icons{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 2em
+}
+#lugar-fecha{
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+    color: white
+}
+#lugar-fecha img{
+    max-width: 100%
+}
