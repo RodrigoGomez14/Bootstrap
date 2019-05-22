@@ -10,16 +10,20 @@ body{
     color: white !important
 }
 .text-platzi{
-    color:#97c934 !important
+    color:#97c934 !important;
 }
 footer{
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372)
+}
+footer a{
+    text-decoration: none;
+    color: white
 }
 #header img{
     max-height: 30px
 }
 #main .carousel-inner img{
-    max-height: 70vh;
+    max-height: 100vh;
     object-fit: cover;
     filter: grayscale(70%)
 }
@@ -51,6 +55,17 @@ footer{
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
     color: white
 }
+#lugar-fecha .col .container{
+    height: 100%;
+    width: 100%;
+}
+#lugar-fecha .col .container p{
+    margin: 0
+}
+
 #lugar-fecha img{
     max-width: 100%
+}
+#conviertete-en-orador abbr{
+    text-decoration-color: #97c934
 }
